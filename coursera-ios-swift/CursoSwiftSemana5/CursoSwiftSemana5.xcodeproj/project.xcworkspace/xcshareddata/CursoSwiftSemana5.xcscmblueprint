@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "128012A285C5E54F52CA0F93EAF262A7D1048FF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "128012A285C5E54F52CA0F93EAF262A7D1048FF8" : 0,
+    "93AB25E2682E06EF2FAE8BBC172FCEC252E29758" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2E0772A-A6A4-4464-BDFD-5D6A8895EDF2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "128012A285C5E54F52CA0F93EAF262A7D1048FF8" : "coursera-ios-swift\/",
+    "93AB25E2682E06EF2FAE8BBC172FCEC252E29758" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CursoSwiftSemana5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CursoSwiftSemana5\/CursoSwiftSemana5.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LSTR\/coursera-ios-swift",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "128012A285C5E54F52CA0F93EAF262A7D1048FF8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LSTR\/coursera-ios-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93AB25E2682E06EF2FAE8BBC172FCEC252E29758"
+    }
+  ]
+}
